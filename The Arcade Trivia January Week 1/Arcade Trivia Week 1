@@ -1,0 +1,19 @@
+1. You are working on the managing Vault tokens project. After installing Vault, you need to verify whether it is installed correctly. 
+Which of the following commands will you run to do so?
+A - Vault
+
+2. You are working on the managing Vault tokens project. After installing the Vault, you have started a server. 
+Which of the following commands will you run to verify that the server is running?
+A - Vault Status
+
+3. A project is composed of how many models?
+A - One or More Models
+
+4. What is LookML's Explore?
+A - Pre-joined views for business analysis
+
+5. Which Google Cloud data platform allows you to analyze and visualize your data interactively?
+A - Looker
+
+6. What's the role of 'sql_always_where' in a SQl query?
+A - Applied to Dimensions
