@@ -4,7 +4,7 @@
 export USER_2=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20IAM%20Qwik%20Start/GSP064.sh
+curl -LO raw.githubusercontent.com/Sandeepamlan/The-Arcade-Trivia-January-2024/blob/main/The%20Arcade%20Trivia%20January%20Week%202/Cloud%20IAM%3A%20Qwik%20Start/GSP064.sh
 
 sudo chmod +x GSP064.sh
 
